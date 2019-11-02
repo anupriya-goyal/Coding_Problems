@@ -8,7 +8,9 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        //Stack implementation using Stack class of java
       Stack<ListNode> stack=new Stack<ListNode>();
+        //move till the end of linked list
         while(head!=null)
         {
             stack.push(head);
