@@ -1,2 +1,2 @@
 # Coding_Problems
-Solving leetcode problems based on data structures
+Solving leetcode problems using data structures and algorithms
