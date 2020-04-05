@@ -8,7 +8,7 @@ Output: "1[.]1[.]1[.]1"
 
 */
 
-/* 1st Method: withput using replaceAll method*/
+/* 1st Method: without using replaceAll method*/
 
 class Solution {
     public String defangIPaddr(String address) {
